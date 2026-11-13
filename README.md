@@ -2,7 +2,7 @@
 
 I wanted to use [Pixal3D](https://github.com/TencentARC/Pixal3D) inside ComfyUI. I found the package [**ComfyUI-Trellis2**](https://github.com/visualbruno/ComfyUI-Trellis2) package but had many issues installing dependencies, specifically Natten. I bit the bullet and build the wheel myself. Thus, here is a pre-built Windows binary wheel (`.whl`) for [**NATTEN 0.21.1**](https://github.com/SHI-Labs/NATTEN) (Neighborhood Attention Extension) with `libnatten` CUDA kernels compiled and enabled. Built specifically for Windows users running a NVIDIA RTX 30-series (Ampere) GPUs with Python 3.11, PyTorch 2.8.0, and CUDA 12.8.
 
-**--> [Direct Download](https://github.com/Prince25/NATTEN-0.21.1-Windows-Py3.11-Torch2.8-CUDA12.8-sm86/raw/refs/heads/main/natten-0.21.1-cp311-torch28-cu128-sm86-win64.whl) <--**
+**--> [Direct Download](https://github.com/Prince25/NATTEN-0.21.1-Windows-Py3.11-Torch2.8-CUDA12.8-sm86/releases/download/v1.0/natten-0.21.1-cp311-torch28-cu128-sm86-win64.whl) <--**
 
 ---
 
